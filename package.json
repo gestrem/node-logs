@@ -1,0 +1,24 @@
+{
+  "name": "node-logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gestrem/node-logs.git"
+  },
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1"
+},
+  "author": "gestrem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gestrem/node-logs/issues"
+  },
+  "homepage": "https://github.com/gestrem/node-logs#readme"
+}
